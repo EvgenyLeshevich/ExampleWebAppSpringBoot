@@ -5,6 +5,6 @@
 </head>
 <body>
 <p>Hello user</p>
-<a href="/main">Test page</a>
+<a href="/main">Home page</a>
 </body>
 </html>
